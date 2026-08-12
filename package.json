@@ -33,7 +33,8 @@
     "oxlint": "^1.47.0",
     "tsdown": "^0.20.3",
     "typescript": "^5.7.0",
-    "vitest": "^4.1.0"
+    "vite": "7.3.5",
+    "vitest": "^4.1.10"
   },
   "packageManager": "pnpm@10.29.1"
 }
